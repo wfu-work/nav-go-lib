@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"navfirst.com/nav-go-lib/libs"
+	"github.com/wfu-work/nav-go-lib/libs"
 )
 
 func main() {

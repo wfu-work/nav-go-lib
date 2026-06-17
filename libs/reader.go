@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"navfirst.com/nav-go-lib/utils"
+	"github.com/wfu-work/nav-go-lib/utils"
 )
 
 // BitReader 读取按位字段（按大端位序：先高位）

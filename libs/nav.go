@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"navfirst.com/nav-go-lib/domains"
-	"navfirst.com/nav-go-lib/utils"
+	"github.com/wfu-work/nav-go-lib/domains"
+	"github.com/wfu-work/nav-go-lib/utils"
 )
 
 const navUsage = "❌Usage: Nav <startTime> <endTime> <rawPath> <outPath> <sites> <fileFormat> <ext>"

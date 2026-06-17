@@ -4,7 +4,7 @@ import (
 	"math"
 	"time"
 
-	"navfirst.com/nav-go-lib/domains"
+	"github.com/wfu-work/nav-go-lib/domains"
 )
 
 var CurrentLeapSeconds = 18

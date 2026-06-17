@@ -1,3 +1,3 @@
-module navfirst.com/nav-go-lib
+module github.com/wfu-work/nav-go-lib
 
 go 1.24

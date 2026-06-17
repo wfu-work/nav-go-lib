@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"navfirst.com/nav-go-lib/domains"
+	"github.com/wfu-work/nav-go-lib/domains"
 )
 
 func init() {

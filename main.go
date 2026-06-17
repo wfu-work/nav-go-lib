@@ -8,7 +8,7 @@ import "C"
 import (
 	"unsafe"
 
-	"navfirst.com/nav-go-lib/libs"
+	"github.com/wfu-work/nav-go-lib/libs"
 )
 
 //export mergeNav

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"navfirst.com/nav-go-lib/domains"
-	"navfirst.com/nav-go-lib/utils"
+	"github.com/wfu-work/nav-go-lib/domains"
+	"github.com/wfu-work/nav-go-lib/utils"
 )
 
 // parseGLONASSNav 解析GLONASS的星历报文

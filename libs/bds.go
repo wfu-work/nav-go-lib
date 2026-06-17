@@ -5,8 +5,8 @@ import (
 	"math"
 	"time"
 
-	"navfirst.com/nav-go-lib/domains"
-	"navfirst.com/nav-go-lib/utils"
+	"github.com/wfu-work/nav-go-lib/domains"
+	"github.com/wfu-work/nav-go-lib/utils"
 )
 
 // ParseBDSNav 解析BDS的星历报文
